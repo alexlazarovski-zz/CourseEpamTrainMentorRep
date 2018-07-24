@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>HelloWorld</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>ATM__c.Amount__c</members>
+        <members>ATM__c.Bank__c</members>
+        <members>Bank__c.ATM_Sum_Amount__c</members>
+        <members>Bank__c.MPicklist__c</members>
+        <members>Bank__c.Nationality__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>ATM__c</members>
+        <members>Bank__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Bank__c-Bank Layout</members>
+        <name>Layout</name>
+    </types>
+    <version>42.0</version>
+</Package>
